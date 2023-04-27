@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YvesScherdin
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Development (programming + graphics)
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on: actually nothing.
-- 📫 How to reach me: Better not. Busy.
+- 💞️ I’m looking to collaborate on: Programming projects, especially game development, but not only.
+- 📫 How to reach me: per mail at yves.scherdin@gmx.de
 
 <!---
 YvesScherdin/YvesScherdin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
