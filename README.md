@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YvesScherdin
-- 👀 I’m interested in Game Development (programming + graphics)
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in game development, programming, graphics and sound editing
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on: Programming projects, especially game development, but not only.
 - 📫 How to reach me: per mail at yves.scherdin@gmx.de
 
