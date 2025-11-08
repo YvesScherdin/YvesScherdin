@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YvesScherdin
-- 👀 I’m interested in software development, game development, graphics and sound editing
-- 🌱 I’m currently learning C# and open to learn more languages / frameworks
-- 💞️ I’m looking to collaborate on: Programming projects
+- 👀 I’m interested in software development, programming, 2D graphics and a bit sound editing
+- 🌱 I’m currently learning C# frameworks like WPF, Avalonia, Angular.
+- 💞️ I’m looking to collaborate on: Programming, graphics and game development in general - or wherever I can put my skills at work
 - 📫 How to reach me: per mail at yves.scherdin@gmx.de
 
 <!---
